@@ -56,8 +56,12 @@ Thus, the first author receives a substantially larger share, but other authors 
 In this project, I will examine how different weighting methods affect the measured publication volume of two 
 institutions: the University of Kassel and Klinikum Kassel for 2023 publications.
 Main questions:
+
 • Which method is preferred in a real bibliometric evaluation?
+
 • Which factors (e.g., discipline, team size, authorship conventions) play a role in this decision?
+
 • Which differences arise between the methods?
+
 • I will also model with hypothetical data to examine the behaviour of each weighting method under certain assuptions.
 
