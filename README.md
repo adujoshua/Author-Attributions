@@ -59,3 +59,5 @@ Main questions:
 • Which method is preferred in a real bibliometric evaluation?
 • Which factors (e.g., discipline, team size, authorship conventions) play a role in this decision?
 • Which differences arise between the methods?
+• I will also model with hypothetical data to examine the behaviour of each weighting method under certain assuptions.
+
